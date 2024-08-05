@@ -4,5 +4,5 @@ jdk:
 before_install:
   - ./scripts/prepareJitpackEnvironment.sh
 install:
-  - FILE="-Dfile=cdads-release.aar"
-  - mvn install:install-file $FILE -DgroupId=com.github.ChalkRnd -DartifactId=cdads -Dversion=2.1.4 -Dpackaging=aar -DgeneratePom=true
+  - FILE="-Dfile=/cdads/build/outputs/aar/cdads-release.aar"
+  - mvn install:install-file $FILE -DgroupId=com.github.ChalkRnd -DartifactId=cdads -Dversion=2.1.5 -Dpackaging=aar -DgeneratePom=true
