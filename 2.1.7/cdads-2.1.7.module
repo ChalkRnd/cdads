@@ -154,11 +154,11 @@
         {
           "name": "cdads-2.1.7.aar",
           "url": "cdads-2.1.7.aar",
-          "size": 1376437,
-          "sha512": "4b3f1c5b0b6079993597720b689105242c010fe3aed0ad2c476200333720eaedf65b12c83bea36b7731caee40e7b62235f496ea3a2ca1d97f8df7054aa90a799",
-          "sha256": "41a8c3e0b202e9cf424ae7568a3be15fb1339709284007fea6ba1be7981244c9",
-          "sha1": "7a25d2addebe96107bf4478185997e10ba33349a",
-          "md5": "86247a7499dd0441204e6d7601ca8855"
+          "size": 1376455,
+          "sha512": "eb4bce6046f79c12f7aec7dcba62b67cc0f8a1f5a86e3950cf62b9bc3d63fe51464925993988c075c990605f851d8c9335634da9919a29d5e9ff9f01629458a9",
+          "sha256": "d47f2546d1a0df2b34fc57609cd13ff293caac695a3b20fc8ec2729992928f29",
+          "sha1": "9dc3bbf8afb8fd4544bfa77cb705cc7919a6342d",
+          "md5": "f61f3dcd0786bb5e5a5045bbb2a1a529"
         }
       ]
     },
@@ -302,11 +302,31 @@
         {
           "name": "cdads-2.1.7.aar",
           "url": "cdads-2.1.7.aar",
-          "size": 1376437,
-          "sha512": "4b3f1c5b0b6079993597720b689105242c010fe3aed0ad2c476200333720eaedf65b12c83bea36b7731caee40e7b62235f496ea3a2ca1d97f8df7054aa90a799",
-          "sha256": "41a8c3e0b202e9cf424ae7568a3be15fb1339709284007fea6ba1be7981244c9",
-          "sha1": "7a25d2addebe96107bf4478185997e10ba33349a",
-          "md5": "86247a7499dd0441204e6d7601ca8855"
+          "size": 1376455,
+          "sha512": "eb4bce6046f79c12f7aec7dcba62b67cc0f8a1f5a86e3950cf62b9bc3d63fe51464925993988c075c990605f851d8c9335634da9919a29d5e9ff9f01629458a9",
+          "sha256": "d47f2546d1a0df2b34fc57609cd13ff293caac695a3b20fc8ec2729992928f29",
+          "sha1": "9dc3bbf8afb8fd4544bfa77cb705cc7919a6342d",
+          "md5": "f61f3dcd0786bb5e5a5045bbb2a1a529"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "cdads-2.1.7-sources.jar",
+          "url": "cdads-2.1.7-sources.jar",
+          "size": 555451,
+          "sha512": "988da043ae997e4d4ce738067c5a96c8f77a9cdbae54e01291fd6d5647d6e4d711d4c8b2833e3dac13c51039eef0d019bbe7a291b62e9be14a7865897f57629d",
+          "sha256": "bc261a08dd184e1d632e8dedc49f00bbedb5b1a1a833f1413cfda6105a3404c7",
+          "sha1": "b852d0c632f0a5073ca631f172385805784d3294",
+          "md5": "d9355029b5790cee08f90574a8eb2d5e"
         }
       ]
     }
